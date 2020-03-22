@@ -1,3 +1,4 @@
+// To enter records of multiple students and display them.
 #include<stdio.h>
 #include<stdlib.h>
 
