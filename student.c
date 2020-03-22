@@ -1,3 +1,4 @@
+// Student record input and display.
 #include<stdio.h>
 #include<stdlib.h>
 
